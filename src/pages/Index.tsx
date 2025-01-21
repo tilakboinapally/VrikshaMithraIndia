@@ -6,7 +6,7 @@ import NavigationBar from "@/components/NavigationBar";
 
 const Index = () => {
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen pt-20">
       <NavigationBar />
       <Hero />
       <Stats />
