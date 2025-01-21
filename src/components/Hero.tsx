@@ -53,7 +53,7 @@ export const Hero = () => {
             size="lg"
             className="bg-primary hover:bg-primary-light transition-colors duration-300"
           >
-            Donate Now
+            Become a Member
           </Button>
           <Button
             variant="outline"

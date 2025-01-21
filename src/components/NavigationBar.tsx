@@ -137,7 +137,7 @@ const NavigationBar = () => {
             size="lg"
             className="bg-secondary hover:bg-secondary/90 text-secondary-foreground font-semibold"
           >
-            Donate Now
+            Become a Member
           </Button>
         </div>
       </div>
